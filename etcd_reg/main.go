@@ -76,6 +76,5 @@ func main() {
 	}
 	go s.ListenLeaseRespChan()
 	select {
-
 	}
 }
